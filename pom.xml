@@ -5,11 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.java.www</groupId>
-  <artifactId>mavencli1</artifactId>
+  <artifactId>mavencli2</artifactId>
   <version>1</version>
 
-  <name>mavencli1</name>
-  <description>A simple mavencli1.</description>
+  <name>mavencli2</name>
+  <description>A simple mavencli2.</description>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
